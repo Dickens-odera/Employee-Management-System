@@ -66,8 +66,8 @@ $sent = 0;
                $mail->Host = "smtp.gmail.com";
                $mail->Port = 465 ; //or 467, 587, 80//465
                $mail->IsHTML(true);
-               $mail->Username = "dickenso2015@gmail.com";
-               $mail->Password = "1MOMPAMELA";
+               $mail->Username = "your email address";
+               $mail->Password = "your password";
                $mail->SetFrom("dickenso2015@gmail.com","MMUST EMPLOYEE MANAGEMENT SYSTEM");
                $mail->Subject = "MMUST EMS";
                $mail->Body = "Dear   ".$_POST['username']."  You have been successfuly recruited as part of our team<br></br><a href='https://www.google.com'>Click here for your password</a>";
@@ -424,8 +424,8 @@ $sent = 0;
                                     $mail->Host = "smtp.gmail.com";
                                     $mail->Port = 465 ; //or 467, 587, 80//465
                                     $mail->IsHTML(true);
-                                    $mail->Username = "dickenso2015@gmail.com";
-                                    $mail->Password = "1MOMPAMELA";
+                                    $mail->Username = "your email address";
+                                    $mail->Password = "the password to your email address";
                                     $mail->SetFrom("dickenso2015@gmail.com","Hr Manager MMUST");
                                     $mail->Subject = "Job Application";
                                     $mail->Body = "Dear   ".$name."  ".$message;
@@ -732,8 +732,8 @@ $sent = 0;
             $mail->Host = "smtp.gmail.com";
             $mail->Port = 465 ; //or 467, 587, 80//465
             $mail->IsHTML(true);
-            $mail->Username = "dickenso2015@gmail.com";
-            $mail->Password = "1MOMPAMELA";
+            $mail->Username = "your email address";
+            $mail->Password = "the password to your email address";
             $mail->SetFrom("dickenso2015@gmail.com","MMUST EMS");
             $mail->Subject =$sub;
             $mail->Body = "Dear   ".$name.  "  $message";
