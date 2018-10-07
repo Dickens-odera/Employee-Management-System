@@ -1,0 +1,1 @@
+web: vendor/bin/employee-management-system/
