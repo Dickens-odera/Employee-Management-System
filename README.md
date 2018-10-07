@@ -7,18 +7,18 @@
 <h4>Requirements</h4>:
 <ul>
 <li>
-composer
-</li>
-<li>
-phpmailer</li>
-<li>
 wamp or xampp servers
 </li>
 <li>
-mysql
+composer from <a href="https://getcomposer.org/">here</a> and chose that fits your os
 </li>
 <li>
-Bootstrap 4
+phpmailer, the php library for sending emails</li>
+<li>
+mysql for database integration though once you have any of the servers you are good to go
+</li>
+<li>
+Bootstrap 4, a front-end web framework
 </li>
 </ul>
 <p>
