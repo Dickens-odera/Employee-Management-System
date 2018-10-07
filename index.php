@@ -40,7 +40,7 @@ if(isset($_SESSION['email'])){
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Employee <span class="caret"></span></a>
           <ul class="dropdown-menu">
             <!--<li><a href="./employee/register.php">Register</a></li>-->
-            <li><a href="./employee/login.php">Login</a></li>
+            <li><a href="./employee.dashboard.php">Login</a></li>
             <li><a href="#jobs" class="smoothScrollLink">View Recruitment Adverts</a></li>
           </ul>
         </li>
