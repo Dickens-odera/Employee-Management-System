@@ -16,3 +16,6 @@ phpmailer</li>
 wamp or xampp servers</li><li>
 mysql</li><li>
 </ul>
+<p>
+I'll be working on the database and send the necessary info so that you get to ineteract with the app much better
+</p>
