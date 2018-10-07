@@ -1,6 +1,6 @@
-<h3>EMS with RAW PHP</h3></br>
-<p>As the name suggests, here in intend to help improve the management of an organisation</p>
-<p>understanding very well that employees form a vital part of an organzation</p>
+<h3>Employee Management System</h3></br>
+<p>As the name suggests, here i intend to help improve the management of an organisation</p>
+<p>understanding very well that employees form a vital part of an organization</p>
 <h2>Demo</h2><br>
 <p>The app has been deployed on <a href="www.heroku.com">Heroku</a>and you can find it <a href="https://emsphp.herokuapp.com/">here</a></p>
 
