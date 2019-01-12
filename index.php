@@ -19,6 +19,19 @@ if(isset($_SESSION['email'])){
     <link rel ="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css"/>
     <script src="main.js"></script>
 </head>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5c3a75e5361b3372892fd787/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 <body ng-controller="AppController" bgcolor="#45584">
 <nav class="navbar navbar-inverse navbar-static-top navbar-dark bg-dark" id="navigation">
   <div class="container-fluid">
