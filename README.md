@@ -2,7 +2,7 @@
 <p>As the name suggests, here i intend to help improve the management of an organisation</p>
 <p>understanding very well that employees form a vital part of an organization</p>
 <h2>Demo</h2>
-<p>The app has been deployed on <a href="www.heroku.com">Heroku</a> and you can find it <a href="http://dickiesems.herokuapp.com/">here</a></p>
+<p>The app has been deployed on <a href="https://www.heroku.com/">Heroku</a> and you can find it <a href="http://dickiesems.herokuapp.com/">here</a></p>
 
 <h4>Requirements</h4>:
 <ul>
